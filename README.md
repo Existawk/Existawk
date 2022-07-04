@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/Existawk/Existawk/main/parker-skinner.svg" />
 </p>
 
-<!-- <p align="center">
-  "<em>A good programmer is someone who always looks both ways before crossing a one-way street.</em>" - Doug Linder -->
+<p align="center">
+<!--   "<em>A good programmer is someone who always looks both ways before crossing a one-way street.</em>" - Doug Linder -->
 <br><br>
   · <a href="https://registry.jsonresume.org/Existawk">Resume</a>
  · 
