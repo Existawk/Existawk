@@ -5,7 +5,7 @@
 <p align="center">
 <!--   "<em>A good programmer is someone who always looks both ways before crossing a one-way street.</em>" - Doug Linder -->
 <br><br>
-  · <a href="https://registry.jsonresume.org/Existawk">Resume</a>
+  · <a href="https://docs.google.com/document/d/1RtmvWGtsGs2tlLqVSMFurS6ra2QIrgXX/edit?usp=sharing&ouid=108936627604419086700&rtpof=true&sd=true">Resume</a>
  · 
 <br>
 <a href="https://lockheedmartin.com/">Software Engineer Associate @ LMCO</a>
